@@ -46,5 +46,6 @@ public class LeapYearChecker extends JFrame{
         app.setDefaultCloseOperation(EXIT_ON_CLOSE);
         app.setLocationRelativeTo(null);
         app.setVisible(true);
+        app.setTitle("Leap Year Checker");
     }
 }
